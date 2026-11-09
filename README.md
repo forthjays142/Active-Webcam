@@ -205,4 +205,4 @@ This repository serves as the official landing page for Active WebCam. The softw
 **Get the most recent version of Active WebCam today!**
 
 ---
-**Last updated:** 2026-11-08 20:51:51 UTC
+**Last updated:** 2026-11-09 00:17:05 UTC
